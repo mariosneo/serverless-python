@@ -37,7 +37,7 @@ Deploy the image with google Cloud Run
 ```
 gcloud run deploy serverless-pyrhon --image gcr.io/$PROJECT_ID/serverless-python --platform managed --region us-west1
 ```
-The var.sh containes all the env variables to be export
+The var.sh containes all the env variables 
 
 ```
 export PROJECT_ID="" # to be replaced with the project ID
