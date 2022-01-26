@@ -43,3 +43,6 @@ The var.sh containes all the env variables
 export PROJECT_ID="" # to be replaced with the project ID
 ```
 
+```
+google
+```
